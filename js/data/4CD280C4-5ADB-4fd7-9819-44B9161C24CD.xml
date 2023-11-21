@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.2:1", "", "«Information Object» Asset electrical measurements", "EARoot/EA2/EA2/EA246.htm", "204.png", "E283", "0", "", "InformationItem0","{B0EC8CFB-6A8D-4728-AE29-2379A1107BE2}");
+tocTab[tocTab.length] = new Array("0.2.2:2", "", "«Information Object» Asset status", "EARoot/EA2/EA2/EA247.htm", "204.png", "E284", "0", "", "InformationItem0","{D8171919-F0DF-4b02-A67C-469E7AF08BB4}");
+tocTab[tocTab.length] = new Array("0.2.2:3", "", "«Information Object» Disagregated energy consumption", "EARoot/EA2/EA2/EA248.htm", "204.png", "E282", "0", "", "InformationItem0","{EDD41E04-52CE-4525-9157-342FE46AF78E}");
+tocTab[tocTab.length] = new Array("0.2.2:4", "", "«Information Object» Energy consumption profile", "EARoot/EA2/EA2/EA249.htm", "204.png", "E279", "0", "", "InformationItem0","{8D21ECB3-C96A-48f9-87CE-4A685CB23904}");
+tocTab[tocTab.length] = new Array("0.2.2:5", "", "«Information Object» Grid state forecast", "EARoot/EA2/EA2/EA250.htm", "204.png", "E285", "0", "", "InformationItem0","{C156B57E-0303-45d5-BD7C-AF5F4C62F146}");
+tocTab[tocTab.length] = new Array("0.2.2:6", "", "«Information Object» instantaneous electricity measurements", "EARoot/EA2/EA2/EA251.htm", "204.png", "E280", "0", "", "InformationItem0","{0BEF1C9C-9623-4745-91F0-B67DC8443837}");
+tocTab[tocTab.length] = new Array("0.2.2:7", "", "«Information Object» Topology", "EARoot/EA2/EA2/EA252.htm", "204.png", "E287", "0", "", "InformationItem0","{9790935E-A582-4502-BAA5-3DCC56EC1949}");
+tocTab[tocTab.length] = new Array("0.2.2:8", "", "«Information Object» Weather forecast", "EARoot/EA2/EA2/EA253.htm", "204.png", "E286", "0", "", "InformationItem0","{0590C923-CDDE-40ab-9B66-8702E6A52883}");

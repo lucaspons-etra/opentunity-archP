@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.1", "1", "Business Context View", "EARoot/EA3/EA1/EA258.htm", "4.png", "", "", "{1B0568A6-3E66-4e80-B2A6-D7440B2AB4A0}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2", "1", "Standard and Information Object Mapping", "EARoot/EA3/EA2/EA281.htm", "4.png", "", "", "{BB9EB0E5-B682-4025-AD8A-ABBF5309F149}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3", "1", "Canonical Data Model", "EARoot/EA3/EA3/EA305.htm", "4.png", "", "", "{70776B23-AB1F-4b54-BFD9-F38AF677D113}", "Package");

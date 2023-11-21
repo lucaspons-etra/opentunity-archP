@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.3.2:1", "", "Standard and Information Object Mapping", "EARoot/EA3/EA2/EA279.htm", "175.png", "14", "0", "", "Logical diagram0","{0497B6EF-413D-4022-B990-233D0818F39F}");
+tocTab[tocTab.length] = new Array("0.3.2.1", "1", "INN4", "EARoot/EA3/EA2/EA1/EA289.htm", "4.png", "", "", "{606CFAED-07D8-438f-BD94-FACE80F89730}", "Package");
+tocTab[tocTab.length] = new Array("0.3.2.2", "1", "INN7", "EARoot/EA3/EA2/EA2/EA304.htm", "4.png", "", "", "{43493DF5-53DC-472c-A7D5-A065B0A57F5B}", "Package");

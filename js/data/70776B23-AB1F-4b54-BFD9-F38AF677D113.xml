@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.3.3:1", "", "«Data Model Standard» AMI specific Datamodel", "EARoot/EA3/EA3/EA306.htm", "5.png", "E293", "0", "", "Class0","{CC565F67-D8AF-4a47-BB3F-38F684F05195}");
+tocTab[tocTab.length] = new Array("0.3.3:2", "", "«Data Model Standard» CIM", "EARoot/EA3/EA3/EA307.htm", "5.png", "E299", "0", "", "Class0","{A46C2305-85F3-4d6a-BBDA-3D993D764773}");
+tocTab[tocTab.length] = new Array("0.3.3:3", "", "«Data Model Standard» CITRIC datamodel", "EARoot/EA3/EA3/EA308.htm", "5.png", "E294", "0", "", "Class0","{14C6199C-F73F-4b72-92E5-4A2DC0E24F39}");
+tocTab[tocTab.length] = new Array("0.3.3:4", "", "«Data Model Standard» EN 60870 (102/104)", "EARoot/EA3/EA3/EA309.htm", "5.png", "E295", "0", "", "Class0","{0B3E54C5-E992-4216-B6F1-16561147E635}");
+tocTab[tocTab.length] = new Array("0.3.3:5", "", "«Data Model Standard» EN 61850", "EARoot/EA3/EA3/EA310.htm", "5.png", "E296", "0", "", "Class0","{F8005D30-DCD6-4d4f-A4AF-5BDF811652D9}");
+tocTab[tocTab.length] = new Array("0.3.3:6", "", "«Data Model Standard» IEC 62056 (DLMS/COSEM)", "EARoot/EA3/EA3/EA311.htm", "5.png", "E292", "0", "", "Class0","{A47E716C-3983-4ee4-BAE4-19291F585885}");
+tocTab[tocTab.length] = new Array("0.3.3:7", "", "«Data Model Standard» SCADA specific datamodel", "EARoot/EA3/EA3/EA314.htm", "5.png", "E297", "0", "", "Class0","{368B8594-032C-4d7a-91BF-B624A387D1A4}");
+tocTab[tocTab.length] = new Array("0.3.3:8", "", "«Data Model Standard» Weather forecast datamodel", "EARoot/EA3/EA3/EA315.htm", "5.png", "E298", "0", "", "Class0","{5E0A954C-A733-4678-A66A-1B3A585190A1}");
+tocTab[tocTab.length] = new Array("0.3.3.1", "1", "INN4", "EARoot/EA3/EA3/EA1/EA318.htm", "4.png", "", "", "{B5E016F9-48FB-4afa-9247-75BC3B6FB08F}", "Package");
+tocTab[tocTab.length] = new Array("0.3.3.2", "1", "INN7", "EARoot/EA3/EA3/EA2/EA333.htm", "4.png", "", "", "{B95AD9E4-9EEC-4529-B6E8-5F44EBDF3AEC}", "Package");
